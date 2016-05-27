@@ -1,3 +1,5 @@
-Hi everyone,
+Hi everybody,
 
-this file is created in local repo and pushed to the remote repo
+this file is created in local repo and pushed to the remote repo.
+
+thank you
